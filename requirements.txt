@@ -6,4 +6,5 @@ matplotlib==3.11.1
 torch==2.13.0
 timm==1.0.28
 torchvision==0.28.0
+ipykernel==7.3.0
 
