@@ -3,5 +3,6 @@ Optimization_Algorithm/data/
 Regularization_and_HyperparameterTuning/data/
 Convolution_Neural_Network/images/
 Convolution_Neural_Network/data/
+Convolution_Neural_Network/saved_models/
 *.ubyte
 *.gz
