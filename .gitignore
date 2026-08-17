@@ -4,5 +4,6 @@ Regularization_and_HyperparameterTuning/data/
 Convolution_Neural_Network/images/
 Convolution_Neural_Network/data/
 Convolution_Neural_Network/saved_models/
+Recurrent_Neural_Networks/data/
 *.ubyte
 *.gz
