@@ -13,6 +13,8 @@ plotly==6.9.0
 nltk==3.10.0
 nbformat==5.11.1
 tensorflow-datasets==4.9.10
+idx2numpy==1.2.3
+
 
 
 
