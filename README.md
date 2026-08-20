@@ -192,7 +192,7 @@ This notebook introduces the basic architecture and operation of a neural networ
 
 This section focuses on the two fundamental processes used during neural network training.
 
-### Forward Propagation
+## Forward Propagation
 
 `Components_of_Neural_Networks/Forward_Propagation.ipynb`
 
@@ -224,7 +224,7 @@ Covers:
 
 Optimization algorithms determine how neural network parameters are updated during training.
 
-### Topics
+## Topics
 
 | Algorithm                   | Notebook                                  |
 | --------------------------- | ----------------------------------------- |
@@ -244,7 +244,7 @@ These notebooks explain how different optimizers improve convergence, training s
 
 Deep neural networks can easily overfit training data. This section covers techniques for improving generalization and controlling the training process.
 
-### Topics
+## Topics
 
 * Regularization
 * L1 and L2 Regularization
@@ -341,7 +341,7 @@ Recurrent Neural Networks are designed for sequential and temporal data.
 
 This section focuses on how neural networks process sequences and how different architectures address the limitations of standard RNNs.
 
-### Topics
+## Topics
 
 * Recurrent Neural Networks
 * Hidden States
@@ -491,7 +491,7 @@ Introduces diffusion-based generative models and the general idea behind:
 
 Several datasets are included in the repository for practical experiments.
 
-### MNIST
+## MNIST
 
 Used for handwritten digit classification and experiments with neural networks and optimization algorithms.
 
